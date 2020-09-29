@@ -4,7 +4,6 @@ For now, I work for [LongBridge Inc.](https://longbridge.global) 🌉
 
 ## Featured 
 
-| Name |  Description |
 | ---  | -------- |
 | Rails ||
 | [Homeland](https://github.com/ruby-china/homeland) | Open source discussion website. |
