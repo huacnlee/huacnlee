@@ -13,7 +13,7 @@ For now, I work for [LongBridge Inc.](https://longbridge.global) 🌉
 <td>Open source discussion website.</td>
 </tr>
 <tr>
-<td><a href="https://github.com/thebluedoc/bluedoc">BlueDoc</a></td>
+<td><a href="https://github.com/huacnlee/bluedoc">BlueDoc</a></td>
 <td>Document management tool for enterprise self host</td>
 </tr>
 <tr>
