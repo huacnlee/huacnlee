@@ -83,6 +83,10 @@ For now, I work for [LongBridge Inc.](https://longbridge.global) 🌉
 <td></td>
 </tr>
 <tr>
+<td><a href="https://github.com/griffinqiu/go-nested-set">go-nested-set</a></td>
+<td></td>
+</tr>
+<tr>
 <td><a href="https://github.com/huacnlee/go-pinyin">go-pinyin</a></td>
 <td>Forked version Pinyin for Go</td>
 </tr>
