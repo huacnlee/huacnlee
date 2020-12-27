@@ -28,6 +28,10 @@ For now, I work for [LongBridge Inc.](https://longbridge.global) 🌉
 <td></td>
 </tr>
 <tr>
+<td><a href="https://github.com/hooopo/second_level_cache">second_level_cache</a></td>
+<td></td>
+</tr>
+<tr>
 <td><a href="https://github.com/huacnlee/rucaptcha">rucaptcha</a></td>
 <td></td>
 </tr>
