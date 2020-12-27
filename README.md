@@ -21,39 +21,39 @@ For now, I work for [LongBridge Inc.](https://longbridge.global) 🌉
 </tr>
 <tr>
 <td><a href="https://github.com/huacnlee/rails-settings-cached">rails-settings-cached</a></td>
-<td></td>
+<td>The best solution for store global settings in Rails applications.</td>
 </tr>
 <tr>
 <td><a href="https://github.com/rails-engine/action-store">action-store</a></td>
-<td></td>
+<td>Store different kinds of actions (Like, Follow, Star, Block, etc.) in a single table via ActiveRecord Polymorphic Associations.</td>
 </tr>
 <tr>
 <td><a href="https://github.com/hooopo/second_level_cache">second_level_cache</a></td>
-<td></td>
+<td>Second level cache for ActiveRecord for make your application faster.</td>
 </tr>
 <tr>
 <td><a href="https://github.com/huacnlee/rucaptcha">rucaptcha</a></td>
-<td></td>
+<td>Captcha gem for Rails Applications which generates captcha image by C code.</td>
 </tr>
 <tr>
 <td><a href="https://github.com/huacnlee/auto-correct">auto-correct</a></td>
-<td></td>
+<td>Automatically add whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols).</td>
 </tr>
 <tr>
 <td><a href="https://github.com/rails-engine/notifications">notifications</a></td>
-<td></td>
+<td>Notifications Center engine like GitHub or other application for any Rails applications.</td>
 </tr>
 <tr>
 <td><a href="https://github.com/rails-engine/action-draft">action-draft</a></td>
-<td></td>
+<td>Action Draft brings your ActiveRecord model to storage multiple draft attributes without add columns to the business table.</td>
 </tr>
 <tr>
 <td><a href="https://github.com/rails-engine/exception-track">exception-track</a></td>
-<td></td>
+<td>Tracking exceptions for Rails application store them in database.</td>
 </tr>
 <tr>
 <td><a href="https://github.com/rails-engine/audit-log">audit-log</a></td>
-<td></td>
+<td>Trail audit logs (Operation logs) into the database for user behaviors, including a Web UI to query logs.</td>
 </tr>
 <tr>
 <td><a href="https://github.com/huacnlee/enumize">enumize</a></td>
@@ -76,19 +76,19 @@ For now, I work for [LongBridge Inc.](https://longbridge.global) 🌉
 </tr>
 <tr>
 <td><a href="https://github.com/huacnlee/gobackup">gobackup</a></td>
-<td></td>
+<td>Simple tool for backup your databases, files to FTP / SCP / S3 storages.</td>
 </tr>
 <tr>
 <td><a href="https://github.com/huacnlee/html-pipeline">html-pipeline</a></td>
-<td></td>
+<td>Go version of [html-pipeline](https://github.com/jch/html-pipeline).</td>
 </tr>
 <tr>
 <td><a href="https://github.com/huacnlee/go-auto-correct">go-auto-correct</a></td>
-<td></td>
+<td>Go version of AutoCorrect.</td>
 </tr>
 <tr>
 <td><a href="https://github.com/griffinqiu/go-nested-set">go-nested-set</a></td>
-<td></td>
+<td>Golang implementation of the Nested set model for Gorm.</td>
 </tr>
 <tr>
 <td><a href="https://github.com/huacnlee/go-pinyin">go-pinyin</a></td>
@@ -99,7 +99,7 @@ For now, I work for [LongBridge Inc.](https://longbridge.global) 🌉
 </tr>
 <tr>
 <td><a href="https://github.com/huacnlee/auto-correct.rs">auto-correct.rs</a></td>
-<td></td>
+<td>Rust version of AutoCorrect.</td>
 </tr>
 </tbody>
 </table>
