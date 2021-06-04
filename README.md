@@ -91,7 +91,7 @@ For now, I work for [LongBridge Inc.](https://longbridge.global) 🌉
 <td>Golang implementation of the Nested set model for Gorm.</td>
 </tr>
 <tr>
-<td><a href="https://github.com/huacnlee/go-pinyin">go-pinyin</a></td>
+<td><a href="https://github.com/longbridgeapp/go-pinyin">go-pinyin</a></td>
 <td>Forked version Pinyin for Go</td>
 </tr>
 <tr>
