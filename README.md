@@ -98,7 +98,7 @@ For now, I work for [LongBridge Inc.](https://longbridgeapp.com) 🌉
 <td colspan="2">Rust</td>
 </tr>
 <tr>
-<td><a href="https://github.com/huacnlee/auto-correct.rs">auto-correct.rs</a></td>
+<td><a href="https://github.com/huacnlee/autocorrect">autocorrect</a></td>
 <td>Rust version of AutoCorrect.</td>
 </tr>
 </tbody>
