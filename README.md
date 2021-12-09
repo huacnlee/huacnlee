@@ -101,5 +101,9 @@ For now, I work for [Longbridge Inc.](https://longbridgeapp.com) 🌉
 <td><a href="https://github.com/huacnlee/autocorrect">autocorrect</a></td>
 <td>Rust version of AutoCorrect.</td>
 </tr>
+<tr>
+<td><a href="https://github.com/longbridgeapp/rust-i18n">rust-i18n</a></td>
+<td>A better and simply I18n crate for Rust.</td>
+</tr>
 </tbody>
 </table>
