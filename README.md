@@ -79,15 +79,15 @@ For now, I work for [Longbridge Inc.](https://longbridgeapp.com) 🌉
 <td>Simple tool for backup your databases, files to FTP / SCP / S3 storages.</td>
 </tr>
 <tr>
-<td><a href="https://github.com/huacnlee/html-pipeline">html-pipeline</a></td>
+<td><a href="https://github.com/longbridgeapp/html-pipeline">html-pipeline</a></td>
 <td>Go version of [html-pipeline](https://github.com/jch/html-pipeline).</td>
 </tr>
 <tr>
-<td><a href="https://github.com/huacnlee/go-auto-correct">go-auto-correct</a></td>
+<td><a href="https://github.com/longbridgeapp/autocorrect">AutoCorrect for Go</a></td>
 <td>Go version of AutoCorrect.</td>
 </tr>
 <tr>
-<td><a href="https://github.com/griffinqiu/go-nested-set">go-nested-set</a></td>
+<td><a href="https://github.com/longbridgeapp/nested-set">nested-set</a></td>
 <td>Golang implementation of the Nested set model for Gorm.</td>
 </tr>
 <tr>
