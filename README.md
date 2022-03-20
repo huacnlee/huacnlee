@@ -1,6 +1,7 @@
-I am the co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [RubyGems Mirror](https://gems.ruby-china.com) in China. 
+Co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [RubyGems Mirror](https://gems.ruby-china.com) in China. 
 
-For now, I work for [Longbridge Inc.](https://longbridgeapp.com) 🌉
+- Before (2011 - 2018): Work for Alibaba and Ant Group. 
+- Now: I work for [Longbridge Inc.](https://longbridgeapp.com) 🌉
 
 ## Featured 
 
@@ -76,7 +77,7 @@ For now, I work for [Longbridge Inc.](https://longbridgeapp.com) 🌉
 </tr>
 <tr>
 <td><a href="https://github.com/longbridgeapp/html-pipeline">html-pipeline</a></td>
-<td>Go version of [html-pipeline](https://github.com/jch/html-pipeline).</td>
+<td>Go version of html-pipeline.</td>
 </tr>
 <tr>
 <td><a href="https://github.com/longbridgeapp/autocorrect">AutoCorrect</a></td>
@@ -86,7 +87,7 @@ For now, I work for [Longbridge Inc.](https://longbridgeapp.com) 🌉
 <td><a href="https://github.com/longbridgeapp/assert">Assert</a></td>
 <td>Extends stretchr/testify/assert for add more useful methods.</td>
 </tr>
-	<tr>
+<tr>
 <td><a href="https://github.com/longbridgeapp/opencc">OpenCC</a></td>
 <td>Pure Go version OpenCC 繁簡轉換.</td>
 </tr>
