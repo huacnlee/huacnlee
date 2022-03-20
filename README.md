@@ -79,12 +79,24 @@ For now, I work for [Longbridge Inc.](https://longbridgeapp.com) 🌉
 <td>Simple tool for backup your databases, files to FTP / SCP / S3 storages.</td>
 </tr>
 <tr>
+<td><a href="https://github.com/go-gorm/sharding">Gorm Sharding</a></td>
+<td>High performance table sharding plugin for Gorm.</td>
+</tr>
+<tr>
 <td><a href="https://github.com/longbridgeapp/html-pipeline">html-pipeline</a></td>
 <td>Go version of [html-pipeline](https://github.com/jch/html-pipeline).</td>
 </tr>
 <tr>
-<td><a href="https://github.com/longbridgeapp/autocorrect">AutoCorrect for Go</a></td>
+<td><a href="https://github.com/longbridgeapp/autocorrect">AutoCorrect</a></td>
 <td>Go version of AutoCorrect.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/longbridgeapp/assert">Assert</a></td>
+<td>Extends stretchr/testify/assert for add more useful methods.</td>
+</tr>
+	<tr>
+<td><a href="https://github.com/longbridgeapp/opencc">OpenCC</a></td>
+<td>Pure Go version OpenCC 繁簡轉換.</td>
 </tr>
 <tr>
 <td><a href="https://github.com/longbridgeapp/nested-set">nested-set</a></td>
