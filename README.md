@@ -56,16 +56,8 @@ For now, I work for [Longbridge Inc.](https://longbridgeapp.com) 🌉
 <td>Trail audit logs (Operation logs) into the database for user behaviors, including a Web UI to query logs.</td>
 </tr>
 <tr>
-<td><a href="https://github.com/huacnlee/enumize">enumize</a></td>
-<td>Extend ActiveRecord::Enum for add more helpful methods.</td>
-</tr>
-<tr>
 <td><a href="https://github.com/huacnlee/sql-builder">sql-builder</a></td>
 <td>A simple SQL builder for generate SQL for non-ActiveRecord supports database</td>
-</tr>
-<tr>
-<td><a href="https://github.com/huacnlee/actiontext-lite">actiontext-lite</a></td>
-<td>Lite version of ActionText</td>
 </tr>
 <tr>
 <td><a href="https://github.com/huacnlee/redis-search">redis-search</a></td>
