@@ -21,7 +21,7 @@ Co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [R
 <td colspan="2">RubyGems</td>
 </tr>
 <tr>
-<td><a href="https://github.com/huacnlee/rails-settings-cached">rails-settings-cached</a></td>
+<td style="white-space: nowrap;"><a href="https://github.com/huacnlee/rails-settings-cached">rails-settings-cached</a></td>
 <td>The best solution for store global settings in Rails applications.</td>
 </tr>
 <tr>
