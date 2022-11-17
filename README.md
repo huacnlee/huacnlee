@@ -37,10 +37,6 @@ Co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [R
 <td>Captcha gem for Rails Applications which generates captcha image by C code.</td>
 </tr>
 <tr>
-<td><a href="https://github.com/huacnlee/auto-correct">auto-correct</a></td>
-<td>Automatically add whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols).</td>
-</tr>
-<tr>
 <td><a href="https://github.com/rails-engine/notifications">notifications</a></td>
 <td>Notifications Center engine like GitHub or other application for any Rails applications.</td>
 </tr>
@@ -72,7 +68,7 @@ Co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [R
 <td>Simple tool for backup your databases, files to FTP / SCP / S3 storages.</td>
 </tr>
 <tr>
-<td><a href="https://github.com/go-gorm/sharding">Gorm Sharding</a></td>
+<td><a href="https://github.com/go-gorm/sharding">gorm-sharding</a></td>
 <td>High performance table sharding plugin for Gorm.</td>
 </tr>
 <tr>
@@ -80,15 +76,15 @@ Co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [R
 <td>Go version of html-pipeline.</td>
 </tr>
 <tr>
-<td><a href="https://github.com/longbridgeapp/autocorrect">AutoCorrect</a></td>
+<td><a href="https://github.com/longbridgeapp/autocorrect">autocorrect-go</a></td>
 <td>Go version of AutoCorrect.</td>
 </tr>
 <tr>
-<td><a href="https://github.com/longbridgeapp/assert">Assert</a></td>
+<td><a href="https://github.com/longbridgeapp/assert">assert</a></td>
 <td>Extends stretchr/testify/assert for add more useful methods.</td>
 </tr>
 <tr>
-<td><a href="https://github.com/longbridgeapp/opencc">OpenCC</a></td>
+<td><a href="https://github.com/longbridgeapp/opencc">opencc-go</a></td>
 <td>Pure Go version OpenCC 繁簡轉換.</td>
 </tr>
 <tr>
@@ -104,7 +100,7 @@ Co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [R
 </tr>
 <tr>
 <td><a href="https://github.com/huacnlee/autocorrect">autocorrect</a></td>
-<td>Rust version of AutoCorrect.</td>
+<td>AutoCorrect is a linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).</td>
 </tr>
 <tr>
 <td><a href="https://github.com/longbridgeapp/rust-i18n">rust-i18n</a></td>
