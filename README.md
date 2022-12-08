@@ -64,8 +64,8 @@ Co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [R
 <td colspan="2">Go</td>
 </tr>
 <tr>
-<td><a href="https://github.com/huacnlee/gobackup">gobackup</a></td>
-<td>Simple tool for backup your databases, files to FTP / SCP / S3 storages.</td>
+<td><a href="https://github.com/gobackup/gobackup">gobackup</a></td>
+<td>CLI tool for backup your databases, files to FTP / SCP / S3 / GCS and other cloud storages.</td>
 </tr>
 <tr>
 <td><a href="https://github.com/go-gorm/sharding">gorm-sharding</a></td>
