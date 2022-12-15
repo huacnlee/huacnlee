@@ -10,7 +10,7 @@ Co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [R
 	<td colspan="2">Rails</td>
 </tr>
 <tr>
-<td><a href="https://github.com/ruby-china/homeland">Homeland</a></td>
+<td width="200px"><a href="https://github.com/ruby-china/homeland">Homeland</a></td>
 <td>Open source discussion website.</td>
 </tr>
 <tr>
@@ -41,24 +41,12 @@ Co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [R
 <td>Notifications Center engine like GitHub or other application for any Rails applications.</td>
 </tr>
 <tr>
-<td><a href="https://github.com/rails-engine/action-draft">action-draft</a></td>
-<td>Action Draft brings your ActiveRecord model to storage multiple draft attributes without add columns to the business table.</td>
-</tr>
-<tr>
-<td><a href="https://github.com/rails-engine/exception-track">exception-track</a></td>
-<td>Tracking exceptions for Rails application store them in database.</td>
-</tr>
-<tr>
 <td><a href="https://github.com/rails-engine/audit-log">audit-log</a></td>
 <td>Trail audit logs (Operation logs) into the database for user behaviors, including a Web UI to query logs.</td>
 </tr>
 <tr>
 <td><a href="https://github.com/huacnlee/sql-builder">sql-builder</a></td>
 <td>A simple SQL builder for generate SQL for non-ActiveRecord supports database</td>
-</tr>
-<tr>
-<td><a href="https://github.com/huacnlee/redis-search">redis-search</a></td>
-<td>High performance real-time prefix search, indexes store in Redis for Rails application</td>
 </tr>
 <tr>
 <td colspan="2">Go</td>
@@ -73,7 +61,7 @@ Co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [R
 </tr>
 <tr>
 <td><a href="https://github.com/longbridgeapp/html-pipeline">html-pipeline</a></td>
-<td>Go version of html-pipeline.</td>
+<td>HTML processing filters and utilities.</td>
 </tr>
 <tr>
 <td><a href="https://github.com/longbridgeapp/autocorrect">autocorrect-go</a></td>
