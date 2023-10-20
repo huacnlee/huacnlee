@@ -10,9 +10,9 @@ Co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [R
 - [Homeland](https://github.com/ruby-china/homeland) - Open source discussion website.
 - [BlueDoc](https://github.com/huacnlee/bluedoc) - Document management tool for enterprise self host.
 
-
 ### Rust
 
+- [navi](https://github.com/navilang/navi) - A high-performance programming language.
 - [autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).
 - [rust-i18n](https://github.com/longbridgeapp/rust-i18n) - A better and simply I18n crate for Rust.
 
@@ -37,6 +37,9 @@ Co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [R
 - [audit-log](https://github.com/rails-engine/audit-log) - Trail audit logs (Operation logs) into the database for user behaviors, including a Web UI to query logs.
 - [sql-builder](https://github.com/huacnlee/sql-builder) - A simple SQL builder for generate SQL for non-ActiveRecord supports database.
 
+## JavaScript
+
+- [feishu-pages](https://github.com/longbridgeapp/feishu-pages) - Generate Feishu Wiki into a Markdown for work with Static Page Generators.
 
 ### Contributed
 
