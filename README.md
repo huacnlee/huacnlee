@@ -5,11 +5,6 @@ Co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [R
 
 ## Featured 
 
-### Rails Web App
-
-- [Homeland](https://github.com/ruby-china/homeland) - Open source discussion website.
-- [BlueDoc](https://github.com/huacnlee/bluedoc) - Document management tool for enterprise self host.
-
 ### Rust
 
 - [navi](https://github.com/navilang/navi) - A high-performance programming language.
@@ -26,6 +21,11 @@ Co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [R
 - [opencc-go](https://github.com/longbridgeapp/opencc) - Pure Go version OpenCC 繁簡轉換.
 - [nested-set](https://github.com/longbridgeapp/nested-set) - Nested set model for Gorm.
 - [go-pinyin](https://github.com/longbridgeapp/go-pinyin) - Forked version Pinyin for Go.
+
+### Rails Web App
+
+- [homeland](https://github.com/ruby-china/homeland) - Open source discussion website.
+- [bluedoc](https://github.com/huacnlee/bluedoc) - Document management tool for enterprise self host.
 
 ### RubyGems
 
