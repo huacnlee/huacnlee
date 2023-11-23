@@ -7,7 +7,6 @@ Co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [R
 
 ### Rust
 
-- [navi](https://github.com/navi-language/navi) - A high-performance programming language.
 - [autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).
 - [rust-i18n](https://github.com/longbridgeapp/rust-i18n) - A better and simply I18n crate for Rust.
 
