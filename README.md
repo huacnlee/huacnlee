@@ -45,4 +45,4 @@ Co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [R
 - [rails](https://github.com/rails/rails/commits?author=huacnlee) - Ruby on Rails
 - [gitlab](https://github.com/gitlabhq/gitlabhq/commits?author=huacnlee) - GitLab Project
 - [gorm](https://github.com/go-gorm/gorm/commits?author=huacnlee) - The fantastic ORM library for Go.
-- [pest](https://github.com/pest-parser/pest/commits?author=huacnlee) - A Rust general purpose parser.
+- [pest](https://github.com/pest-parser) - A Rust general purpose parser.
