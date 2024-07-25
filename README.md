@@ -1,7 +1,7 @@
 Co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [RubyGems Mirror](https://gems.ruby-china.com) in China. 
 
 - Before (2011 - 2018): Work for Alibaba and Ant Group. 
-- Now: I work for [Longbridge Inc.](https://longportapp.com) 🌉
+- Now: I work for [Longbridge Inc.](https://longbridge.com) 🌉
 
 ## Featured 
 
