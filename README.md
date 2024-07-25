@@ -7,6 +7,7 @@ Co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [R
 
 ### Rust
 
+- [gpui-component)(https://github.com/huacnlee/gpui-component) - A UI components write in GPUI.
 - [autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).
 - [rust-i18n](https://github.com/longbridgeapp/rust-i18n) - A better and simply I18n crate for Rust.
 
@@ -46,3 +47,4 @@ Co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [R
 - [gitlab](https://github.com/gitlabhq/gitlabhq/commits?author=huacnlee) - GitLab Project
 - [gorm](https://github.com/go-gorm/gorm/commits?author=huacnlee) - The fantastic ORM library for Go.
 - [pest](https://github.com/pest-parser) - A Rust general purpose parser.
+- [zed](https://github.com/zed-industries/zed) - Zed text editor.
