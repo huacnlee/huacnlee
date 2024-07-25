@@ -7,7 +7,7 @@ Co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [R
 
 ### Rust
 
-- [gpui-component)(https://github.com/huacnlee/gpui-component) - A UI components write in GPUI.
+- [gpui-component](https://github.com/huacnlee/gpui-component) - A UI components write in GPUI.
 - [autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).
 - [rust-i18n](https://github.com/longbridgeapp/rust-i18n) - A better and simply I18n crate for Rust.
 
