@@ -7,20 +7,20 @@ Co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [R
 
 ### Rust
 
-- [gpui-component](https://github.com/longbridgeapp/gpui-component) - An UI components write in GPUI.
+- [gpui-component](https://github.com/longbridge/gpui-component) - An UI components write in GPUI.
 - [autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).
-- [rust-i18n](https://github.com/longbridgeapp/rust-i18n) - A better and simply I18n crate for Rust.
+- [rust-i18n](https://github.com/longbridge/rust-i18n) - A better and simply I18n crate for Rust.
 
 ### Go
 
 - [gobackup](https://github.com/gobackup/gobackup) - CLI tool for backup your databases, files to FTP / SCP / S3 / GCS and other cloud storages.
 - [gorm-sharding](https://github.com/go-gorm/sharding) - High performance table sharding plugin for Gorm.
-- [html-pipeline](https://github.com/longbridgeapp/html-pipeline) - HTML processing filters and utilities.
-- [autocorrect-go](https://github.com/longbridgeapp/autocorrect) - Go version of AutoCorrect.
-- [assert](https://github.com/longbridgeapp/assert) - Extends stretchr/testify/assert for add more useful methods.
-- [opencc-go](https://github.com/longbridgeapp/opencc) - Pure Go version OpenCC 繁簡轉換.
-- [nested-set](https://github.com/longbridgeapp/nested-set) - Nested set model for Gorm.
-- [go-pinyin](https://github.com/longbridgeapp/go-pinyin) - Forked version Pinyin for Go.
+- [html-pipeline](https://github.com/longbridge/html-pipeline) - HTML processing filters and utilities.
+- [autocorrect-go](https://github.com/longbridge/autocorrect) - Go version of AutoCorrect.
+- [assert](https://github.com/longbridge/assert) - Extends stretchr/testify/assert for add more useful methods.
+- [opencc-go](https://github.com/longbridge/opencc) - Pure Go version OpenCC 繁簡轉換.
+- [nested-set](https://github.com/longbridge/nested-set) - Nested set model for Gorm.
+- [go-pinyin](https://github.com/longbridge/go-pinyin) - Forked version Pinyin for Go.
 
 ### Rails Web App
 
@@ -39,7 +39,7 @@ Co-founder of the [Ruby China](https://ruby-china.org), 💎 I also created a [R
 
 ## JavaScript
 
-- [feishu-pages](https://github.com/longbridgeapp/feishu-pages) - Generate Feishu Wiki into a Markdown for work with Static Page Generators.
+- [feishu-pages](https://github.com/longbridge/feishu-pages) - Generate Feishu Wiki into a Markdown for work with Static Page Generators.
 
 ### Contributed
 
