@@ -2,7 +2,7 @@
 
 ### Rust
 
-- [gpui-component](https://github.com/longbridge/gpui-component) - An UI components write in GPUI.
+- [gpui-kit](https://github.com/longbridge/gpui-kit) - UI components write in GPUI for build cross-platform desktop applications.
 - [autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).
 - [rust-i18n](https://github.com/longbridge/rust-i18n) - A better and simply I18n crate for Rust.
 
